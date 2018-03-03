@@ -6,7 +6,7 @@ import math
 client = discord.Client()
 
 # Constant
-DISCORD_TOKEN = "NDE5NTEwOTA2ODk3MzAxNTA1.DXxQ5Q._prUZ_8YxAMesPY6LggUg7Tuxio"
+DISCORD_TOKEN = "Mzc0MDgwNzUyNDU2ODI2ODgw.DXxe5Q.XW375pz9IKYo6Fx__p0psFS_MXA"
 FORTNITE_API_KEY = '6d187a0b-2bdf-4129-add6-4a484c32d5bc'
 
 LISTE = ['Novice', 'Casual', 'Elite', 'Epic', 'Apprentice', 'Mercenary', 'Legend', 'Master', 'Grandmaster', 'Demigod', 'God']
